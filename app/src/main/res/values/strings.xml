@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scoped Storage Questions</string>
+    <string name="error_uploading_profile_pic">Error uploading Profile Pic</string>
+</resources>
